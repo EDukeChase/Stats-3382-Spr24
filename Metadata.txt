@@ -1,0 +1,60 @@
+Site: Stathead.com
+Accessed: 2024-04-07
+
+
+Away Games
+Search: For single games, from 2009 to 2021, in the regular season or the postseason, playing on the road, sorted by descending Passing TD.
+
+Glossary
+	Rk - Rank
+	Team
+	Date
+	TD - Passing touchdowns
+	Day
+	G# - Game number of team
+	Week - Week number in season
+	Passing
+		Cmp - Passes completed
+		Att - Passes attempted
+		Inc - Passes incomplete (attempts - completions)
+		Cmp% - Percentage of Passes Completed
+		Yds - Yards gained by Passing (For teams, sack yardage is deducted from this total)
+		TD - Passing Touchdowns
+		Int - Interceptions thrown
+		TD% - Percentage of Touchdowns Thrown when Attempting to Passes
+		Int% - Percentage of Times Intercepted when Attempting to Pass
+		Rate - Passer Rating
+		Sk - Times sacked
+		Yds - Yards lost due to sacks
+		Sk% - Percentage of Time Sacked when Attempting to Pass : Times Sacked / (Passes Attempted + Times Sacked)
+		Y/A - Yards gained per pass attempted
+		NY/A - Net Yards gained per pass attempt : (Passing Yards - Sack Yards) / (Passes Attempted + Times Sacked)
+		AY/A - Adjusted Yards gained per pass attempt : (Passing Yards + 20 * Passing TD - 45 * Interceptions) / (Passes Attempted)
+		ANY/A - Adjusted Net Yards per Pass Attempt : (Passing Yards - Sack Yards + (20 * Passing TD) - (45 * Interceptions)) / (Passes Attempted + Times Sacked)
+		Y/C - Yards gained per pass completion : (Passing Yards) / (Passes Completed)
+
+
+
+4th Quarter Touchdowns
+Search: From 2009 to 2021, in the NFL, all offensive touchdowns, grouped by passer, in the 4th quarter, sorted by descending year
+
+Glossary
+	Rk - Rank
+	Date
+	G# - Game number of team
+	W# - Week number in season
+	Tm - Team
+	@ - Home vs away for team
+	Opp - Opponent
+	Result
+	Quarter
+	Type
+	Dist - Distance
+	Scorer
+	Age - Age of the scorer in Years-Days
+	Passer
+	Age - Age of the quarterback in Years-Days
+	Score Before - The score of the game before the scoring play
+	Score After - The score of the game after the scoring play. An asterisk (*) indicates a go-ahead scoring play
+	Conversion
+	
